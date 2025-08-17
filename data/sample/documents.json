@@ -1,0 +1,4 @@
+﻿[
+  { "id": 1, "text": "Quality engineering ensures that AI systems are reliable and trustworthy." },
+  { "id": 2, "text": "Retrieval-Augmented Generation (RAG) enhances LLM performance by grounding answers in data." }
+]

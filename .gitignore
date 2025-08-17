@@ -1,0 +1,14 @@
+# Ignore virtual environment
+.venv/
+
+# Ignore system files
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignore real datasets
+data/raw/
+data/processed/
+
+# Keep sample data for demonstration
+!data/sample/

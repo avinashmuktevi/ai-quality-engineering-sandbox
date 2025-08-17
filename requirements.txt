@@ -1,0 +1,8 @@
+# Core dependencies for basic experiments in RAG
+numpy==1.26.4              # Math & array ops (used everywhere)
+scikit-learn==1.5.1        # Evaluation metrics (precision, recall, etc.)
+nltk==3.9.1                # Basic NLP preprocessing (stopwords, tokenization)
+spacy==3.7.4               # Lemmatization, advanced NLP preprocessing
+rank-bm25==0.2.2           # BM25 retriever implementation
+sentence-transformers==3.0.1  # Embedding-based retrievers
+torch==2.3.1               # Deep learning backend (required by sentence-transformers)
