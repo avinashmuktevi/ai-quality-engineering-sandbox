@@ -38,3 +38,10 @@ The feature/basic-experiments branch supports these advanced branches by acting 
   - Introduce automated testing with pytest.
   - Document results from small-scale evaluations.
   - Maintain incremental improvements through clear commits.
+
+
+## Requirements
+  - Python 3.10+
+  - Install dependencies:
+    ```bash
+    pip install -r requirements.txt
