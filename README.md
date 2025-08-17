@@ -10,8 +10,8 @@ This branch is dedicated to foundational experiments in AI Quality Engineering. 
   - Build a foundation that will align with advanced work in other branches (feature/rag-llm and feature/agents).
 
 **Contents**
-  The experiments in this branch will cover areas such as:
-  
+
+  The experiments in this branch will cover areas such as: 
       1.	Python Basics for AI/ML Testing
           -- Data loading, cleaning, and validation.
           -- Unit testing for small Python functions.
@@ -37,5 +37,6 @@ The feature/basic-experiments branch supports these advanced branches by acting 
   - Introduce automated testing with pytest.
   - Document results from small-scale evaluations.
   - Maintain incremental improvements through clear commits.
+
 
 
