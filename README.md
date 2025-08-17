@@ -12,18 +12,19 @@ This branch is dedicated to foundational experiments in AI Quality Engineering. 
 **Contents**
 
   The experiments in this branch will cover areas such as: 
+  
       1.	Python Basics for AI/ML Testing
-          -- Data loading, cleaning, and validation.
-          -- Unit testing for small Python functions.
+            -- Data loading, cleaning, and validation.
+            -- Unit testing for small Python functions.
       2.	Evaluation Utilities
-          -- Scripts to log experiment results.
-          -- Tracking performance metrics (accuracy, precision, recall).
+            -- Scripts to log experiment results.
+            -- Tracking performance metrics (accuracy, precision, recall).
       3.	Version Control Practice
-          -- Using Git effectively for small changes.
-          -- Maintaining clean commit history.
+            -- Using Git effectively for small changes.
+            -- Maintaining clean commit history.
       4.	Reusable Code Snippets
-          -- Helper functions for text preprocessing.
-          -- Sample configuration files for experiments.
+            -- Helper functions for text preprocessing.
+            -- Sample configuration files for experiments.
       
 Alignment with Other Branches:
   - feature/rag-llm → Focused on Retrieval-Augmented Generation (RAG) and LLM evaluation frameworks.
@@ -37,6 +38,3 @@ The feature/basic-experiments branch supports these advanced branches by acting 
   - Introduce automated testing with pytest.
   - Document results from small-scale evaluations.
   - Maintain incremental improvements through clear commits.
-
-
-
