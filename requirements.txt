@@ -1,4 +1,6 @@
 # Core dependencies for basic experiments in RAG
+pandas == 2.1.4		   
+jupyterlab == 4.0.8
 numpy==1.26.4              # Math & array ops (used everywhere)
 scikit-learn==1.5.1        # Evaluation metrics (precision, recall, etc.)
 nltk==3.9.1                # Basic NLP preprocessing (stopwords, tokenization)
