@@ -28,7 +28,24 @@ Tech Stack (Planned)
 - **DeepEval / Ragas** – for LLM evaluation  
 - **Pytest** – automation & reproducibility
 
-  Author  
+**Key Projects:**
+- **Week 1–2**: Python/Pandas + Tabular ML (scikit-learn, MLflow)
+- **Week 3–5**: API Serving (FastAPI) + Docker/K8s
+- **Week 6**: Monitoring & Drift Detection (Prometheus, Evidently)
+- **Week 7**: RAG QA Pipeline (LangChain + Ragas/DeepEval)
+- **Week 8–10**: Advanced (Feature Stores) + Portfolio
+
+## Tech Stack
+- **Core**: Python, Pandas, scikit-learn, MLflow
+- **Infra**: Docker, Kubernetes (Minikube), GitHub Actions
+- **AI QA**: LangChain, Ragas, DeepEval, Pytest
+
+## Structure
+- `weekX-*/`: Phased projects with src/, tests/, docs/
+- `week7-rag-qa/`: Dedicated AI QA experiments
+- `docs/`: Diagrams & notes
+- `portfolio/`: Interview-ready assets
+
 **Avinash Muktevi**  
 - QA Engineer | 11+ years in Test Automation & Strategy  
-- Exploring **AI Quality Engineering** | RAG | LLMs | Agents
+- Exploring **AI Quality Engineering MLOPS ** | RAG | LLMs
