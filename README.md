@@ -1,4 +1,4 @@
-# ai-quality-engineering-sandbox
+# ai-quality-engineering-MLOPS sandbox
 “Sandbox for AI Quality Engineering experiments: testing RAG pipelines, agents, and automation strategies.”
 A sandbox repository to explore and practice **Quality Engineering for AI systems**.  
 This space is dedicated to experimenting with:  
